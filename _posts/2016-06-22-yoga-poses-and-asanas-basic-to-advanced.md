@@ -24,8 +24,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.yogajournal.com/category/poses/'
 title: Yoga Poses & Asanas - Basic to Advanced
-datePublished: '2016-06-22T10:09:44.081Z'
-dateModified: '2016-06-22T10:09:13.427Z'
+datePublished: '2016-06-22T10:14:52.220Z'
+dateModified: '2016-06-22T10:13:56.653Z'
 starred: false
 sourcePath: _posts/2016-06-22-yoga-poses-and-asanas-basic-to-advanced.md
 inFeed: true
