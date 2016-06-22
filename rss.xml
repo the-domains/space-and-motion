@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[space and motion]]></title>
+        <description><![CDATA[space and motion]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 22 Jun 2016 09:51:29 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Kroki i figury w tańcach latynoamerykańskich]]></title>
+            <description><![CDATA[<article><h1>Kroki i figury w tańcach latynoamerykańskich</h1><p>Wpisany przez Piotr Ile razy oglądając Taniec z Gwiazdami nie rozumieliście co drugiego słowa używanego przez Iwonę Pavlovic czy Piotra Galińskiego? Nie musicie odpowiadać, ponieważ wiem, że bardzo często. Ta "profesjonalna" część jury posługuje się żargonem tanecznym, z którym możecie się spotkać dopiero na kursie lub w szkole tanecznej.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/69e952f0660b75aab5e5acc7517aa2b5/noop.htm?input=http%3A%2F%2Fyoucandance.biz.pl%2Falbum_pic.htm%3Fpic_id%3D4599"></article>]]></description>
+            <link>http://youcandance.biz.pl/portal/skarbnica-krokow/1692-kroki-i-figury-w-tacach-latynoamerykaskich</link>
+            <guid isPermaLink="false">51946fad-7ad8-4f0f-b8bb-72ea4e1e7953</guid>
+            <pubDate>Wed, 22 Jun 2016 09:51:24 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
