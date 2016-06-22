@@ -1,0 +1,14 @@
+layout_spectrum: 0.16287839296273887
+typography_spectrum: 0.7505999333225191
+color:
+  brandStrength: 0.27433637832291424
+  lightness: 0.24136237893253565
+  saturation: 0.5847301268950105
+  rhythmicContrast: 0.5102462663780898
+  brandColors:
+    - '#FCFFF5'
+    - '#D1DBBD'
+    - '#91AA9D'
+    - '#3E606F'
+    - '#193441'
+name: space and motion
